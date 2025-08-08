@@ -151,11 +151,11 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ## 📞 Suporte
 
-- **Empresa**: M A VIANA LOCAÇÕES E SERVIÇOS - ME
-- **Contato**: (11) 97103-7390
-- **Email**: vianamarcelo7@gmail.com
-- **Endereço**: R. Des. Aureo Cerqueira Leite, 36, Cidade Kemel
+- **Empresa**: CSMM
+- **Contato**: (11) 94006-0934
+- **Email**: csmm2029@gmail.com
 
 ---
+
 
 **Desenvolvido com ❤️ para M A VIANA LOCAÇÕES E SERVIÇOS - ME** 
